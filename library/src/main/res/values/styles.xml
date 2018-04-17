@@ -1,0 +1,13 @@
+<resources>
+
+    <declare-styleable name="WaveLineView">
+        <attr name="BackgroundColor" format="color" />
+        <attr name="LineColor" format="color" />
+        <attr name="ThickLineWidth" format="dimension" />
+        <attr name="FineLineWidth" format="dimension" />
+        <attr name="MoveSpeed" format="float" />
+        <attr name="SamplingSize" format="integer" />
+        <attr name="Sensibility" format="integer" />
+    </declare-styleable>
+
+</resources>
